@@ -27,7 +27,7 @@ local Goblins = {}
 
 Goblins.Values = {}
 Goblins.Values['']       = { id = 00000000, en = '',          zone = 000 }
-Goblins.Values[17727633] = { id = 17727633, en = 'Habitox',   zone = 232 }
+Goblins.Values[17727635] = { id = 17727635, en = 'Habitox',   zone = 232 }
 Goblins.Values[17719641] = { id = 17719641, en = 'Mystrix',   zone = 230 }
 Goblins.Values[17735872] = { id = 17735872, en = 'Bountibox', zone = 234 }
 Goblins.Values[17739956] = { id = 17739956, en = 'Specilox',  zone = 235 }
@@ -36,8 +36,8 @@ Goblins.Values[17764606] = { id = 17764606, en = 'Funtrox',   zone = 241 }
 Goblins.Values[17780998] = { id = 17780998, en = 'Sweepstox', zone = 245 }
 Goblins.Values[17776886] = { id = 17776886, en = 'Priztrix',  zone = 244 }
 Goblins.Values[16982639] = { id = 16982639, en = 'Wondrix',   zone = 500 }
-Goblins.Values[17826176] = { id = 17826176, en = 'Rewardox',  zone = 256 }
-Goblins.Values[17830186] = { id = 17830186, en = 'Winrix',    zone = 257 }
+Goblins.Values[17826177] = { id = 17826177, en = 'Rewardox',  zone = 256 }
+Goblins.Values[17830187] = { id = 17830187, en = 'Winrix',    zone = 257 }
 
 --------------------------------------------------------------------------------
 function Goblins.GetByProperty(key, value)
